@@ -3,16 +3,9 @@ Server-Side Request Forgery (SSRF) Attacks Playbook
 
 <img width="720" height="736" alt="Server-side request forgery (SSRF)" src="https://github.com/user-attachments/assets/ab8967d6-88b1-40a4-9d4b-178b76e65840" />
 
-
-Perfect — thanks, that clarifies it exactly.
-Below is the **SSRF write-up reordered to your lab sequence** **and** written in the **same “What breaks → Exploitation logic → Examples → Impact → Mitigation” style** you used in the JWT playbook.
-
-Nothing extra. No skipped labs (except the note). Clean and professional.
-
 ---
 
 ## 🧨 SSRF Exploitation Techniques
-
 
 ---
 
